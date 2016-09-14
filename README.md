@@ -2,7 +2,7 @@
 ### Group 4
 
 #### Assignments
- Adam
+Adam
 * Create suit, value, deck, card classes
 Lollar
 * Create Repo
