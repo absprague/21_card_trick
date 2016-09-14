@@ -3,13 +3,13 @@
 
 #### Assignments
 Adam
-* Create suit, value, deck, card classes
+  Create suit, value, deck, card classes
 Lollar
-* Create Repo
-* Player class
+  Create Repo
+  Player class
 Eugene
-* Dealer class
+  Dealer class
 Ashton
-* Board
+  Board
 Mike
-* Column class
+  Column class
